@@ -1,0 +1,2 @@
+# Base model rouge score 
+base Model ROUGE Scores: {'eval_loss': 9.383282661437988, 'eval_model_preparation_time': 0.0029, 'eval_rouge1': 23.3606, 'eval_rouge2': 9.9558, 'eval_rougeL': 18.6322, 'eval_rougeLsum': 21.8256, 'eval_gen_len': 19.9999, 'eval_runtime': 209.0651, 'eval_samples_per_second': 63.942, 'eval_steps_per_second': 0.641}
